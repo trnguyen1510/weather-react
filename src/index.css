@@ -1,7 +1,12 @@
 body {
-  background: black;
+  background: rgb(24, 23, 23);
 }
-
+.footnote {
+  color:rgb(165, 214, 221);
+}
+.link {
+  color: yellow;
+}
 .App {
   max-width: 900px;
   margin: 20px auto;
