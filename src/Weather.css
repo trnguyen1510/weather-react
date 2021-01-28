@@ -8,7 +8,7 @@
     #16222a,
     #446f85
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  font-family: "Goldman", cursive;
+  font-family: "Arial";
   color: #00bccb;
 }
 .weather .overview {
@@ -44,6 +44,7 @@ a {
   color: #00bccb;
   background-color: inherit;
 }
+
 .btn-search:hover {
   color: black;
   background-color: #00bccb;
